@@ -1,0 +1,6 @@
+exam\MinusPointsCountingPolicy.class
+exam\ExamResult.class
+exam\ExamScoringService.class
+exam\PointsCountingPolicy.class
+exam\Answer.class
+exam\StandardPointsCountingPolicy.class
